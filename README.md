@@ -1,7 +1,7 @@
 # Github from a web development and programming enthusiast.🧔🏾💻
 <h1 align="center">
 
-    <img alt="dhappedev" title="#UnderConstruction" src="https://github.com/dhappe/dhappe/blob/main/2023-01-14_15h26_42.png?raw=true" />
+   
 </h1>
 
 <div>
@@ -40,10 +40,13 @@
 <div> 
 <h2>Social Networks</h2><br>
 
-  <a href = "dhappedevpe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo-henrique-aguiar-prado-pereira-0a6671111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <br>
+<div> 
+  
+  <a href="https://instagram.com/diogaoprado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dhappedevpe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diogohprado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
  
  
