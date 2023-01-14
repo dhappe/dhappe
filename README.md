@@ -1,7 +1,7 @@
 # Github from a web development and programming enthusiast.🧔🏾💻
 <h1 align="center">
 
-    <img alt="dhappedev" title="#UnderConstruction" src="https://github.com/dhappe/dhappe/blob/main/2023-01-14_15h26_42.png" />
+    <img alt="dhappedev" title="#UnderConstruction" src="https://github.com/dhappe/dhappe/blob/main/2023-01-14_15h26_42.png?raw=true" />
 </h1>
 
 <div>
