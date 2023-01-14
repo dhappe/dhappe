@@ -9,16 +9,18 @@
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhappe&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 
-<h3 align="left"> 
+<h3 align="center"> 
 	🚧 GitHub Aways Under Construction 🤣🚧
 </h3>
-<h2>Stacks</h2>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="nodejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h4 align="left"> 
+	My name is Diogo, I am a passionate Frontend Developer dedicated to creating modern and intuitive interfaces. 
+	From an early age, I have always been interested in technology and design, which led me to pursue a career in web development. 
+	Today, I focus on building websites and applications that offer an amazing experience to users. 
+	Follow my creations and journey in this field on my profile and leave your feedback in the comments! 😎💻
+</h4>
+	
+<h2>My Favorites Stacks</h2>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="nodejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
 </div>
